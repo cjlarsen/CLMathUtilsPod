@@ -1,0 +1,14 @@
+PODS:
+  - CLMathUtils (0.1.0)
+
+DEPENDENCIES:
+  - CLMathUtils (from `../`)
+
+EXTERNAL SOURCES:
+  CLMathUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CLMathUtils: a5bb4657c33595ae06c839138541f2a03fe6f717
+
+COCOAPODS: 0.39.0

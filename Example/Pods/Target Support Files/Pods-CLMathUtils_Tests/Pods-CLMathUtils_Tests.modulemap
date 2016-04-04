@@ -1,0 +1,6 @@
+framework module Pods_CLMathUtils_Tests {
+  umbrella header "Pods-CLMathUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

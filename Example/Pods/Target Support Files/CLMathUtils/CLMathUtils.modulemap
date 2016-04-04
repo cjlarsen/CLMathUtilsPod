@@ -1,0 +1,6 @@
+framework module CLMathUtils {
+  umbrella header "CLMathUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
