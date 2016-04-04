@@ -9,6 +9,12 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+<h3> Current Methods </h3>
+- getPercentage(wholeNumber, percentageWanted)
+- getFibonacciNumberByPlace(n) : Returns up to the 92nd Fibonacci number
+- gcd(a, b) : Returns the greatest common denominator of two numbers
+- lcm(a, b) : Returns the lowest common multiple of two numbers
+
 ## Requirements
 
 ## Installation
