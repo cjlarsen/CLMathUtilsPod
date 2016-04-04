@@ -1,15 +1,5 @@
 //
 //  CLMathUtils.swift
-//  Pods
-//
-//  Created by Chris Larsen on 4/3/16.
-//
-//
-
-import Foundation
-
-//
-//  CLMathUtils.swift
 //
 //  Created by Chris Larsen on 10/25/15.
 //  Copyright © 2015 Chris Larsen. All rights reserved.
