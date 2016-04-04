@@ -15,8 +15,6 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 - gcd(a, b) : Returns the greatest common denominator of two numbers
 - lcm(a, b) : Returns the lowest common multiple of two numbers
 
-## Requirements
-
 ## Installation
 
 CLMathUtils is available through [CocoaPods](http://cocoapods.org). To install
