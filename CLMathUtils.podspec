@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC 'Math methods related to GCD, LCM, and Fibonacci numbers'
                        DESC
 
-  s.homepage         = "https://github.com/cjlarsen/CLMathUtils"
+  s.homepage         = "https://github.com/cjlarsen/CLMathUtilsPod.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Chris Larsen" => "chris@theblacknumbers.com" }
-  s.source           = { :git => "https://github.com/cjlarsen/CLMathUtils.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/cjlarsen/CLMathUtilsPod.git", :tag => s.version.to_s }
 s.social_media_url = 'https://twitter.com/ChrsJLrsn'
 
   s.platform     = :ios, '8.0'
